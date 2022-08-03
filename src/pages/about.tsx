@@ -102,7 +102,7 @@ const About = ()=>{
                 <Info/>
                 <div data-scroll-section  className="contact">
                     <h1>Got Some Ideas?</h1>
-                    <a href="mailto: ronnie@ronniefeng.com">Let's Talk.</a>
+                    <a href="mailto: aditya.yadsr@gmail.com">Let's Talk.</a>
                 </div>
             </AboutStyles>
         </>
